@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rusiru Gunaratne</h1>
-<h3 align="center">A passionate programmer and a Computer Engineering Undergraduate</h3>
-
-- 🌱 I’m currently learning **Machine Learning and Back end Development**
+<h3 align="center">A passionate developer and a Computer Engineering Undergraduate</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/rusirugunaratne?tab=repositories](https://github.com/rusirugunaratne?tab=repositories)
 
