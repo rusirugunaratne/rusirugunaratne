@@ -32,15 +32,6 @@ I am a **Software Engineer at the London Stock Exchange Group (LSEG)**, focused 
 
 ---
 
-### 📊 GitHub Stats & Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rusirugunaratne&show_icons=true&theme=radical" alt="Rusiru's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rusirugunaratne&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</p>
-
----
-
 ### 🤝 Connect With Me
 
 <p align="left">
