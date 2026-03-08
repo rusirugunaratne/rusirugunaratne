@@ -17,7 +17,7 @@ I am a **Software Engineer at the London Stock Exchange Group (LSEG)**, focused 
 - 🔭 **Current Work:** Scaling microfrontends and optimizing real-time data streaming (WebSockets/IBM MQ).
 - ✍️ **Content Creation:** I teach Java Concurrency, System Design, and DSA on my [YouTube Channel](https://youtube.com/@RusiruGunaratne).
 - 🎓 **Education:** B.Sc. (Hons) in Computer Engineering (GPA: 3.67/4.00).
-- 🚀 **Featured Project:** Currently building a high-concurrency [Ticketing Platform](https://github.com/rusirugunaratne) using Spring Boot and Redis.
+- 🚀 **Featured Project:** Currently building a high-concurrency Ticketing Platform using Spring Boot and Redis.
 
 ---
 
