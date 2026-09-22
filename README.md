@@ -1,41 +1,47 @@
 <h1 align="center">Hi 👋, I'm Rusiru Gunaratne</h1>
-<h3 align="center">Software Engineer at LSEG | Technical Educator | Full-Stack Developer</h3>
+<h3 align="center">Senior Software Engineer at LSEG | Technical Educator | Distributed Systems</h3>
 
 <p align="center">
   <a href="https://rusirugunaratne.com"><b>Website</b></a> •
   <a href="https://blog.rusirugunaratne.com"><b>Blog</b></a> •
   <a href="https://youtube.com/@RusiruGunaratne"><b>YouTube</b></a> •
-  <a href="https://linkedin.com/in/rusirugunaratne"><b>LinkedIn</b></a>
+  <a href="https://linkedin.com/in/rusirugunaratne"><b>LinkedIn</b></a> •
+  <a href="https://github.com/rusirugunaratne"><b>GitHub</b></a>
 </p>
 
 ---
 
 ### 🛠️ About Me
 
-I am a **Software Engineer at the London Stock Exchange Group (LSEG)**, focused on building mission-critical, low-latency financial platforms. Beyond my professional work, I am a technical educator dedicated to bridging the gap between academic theory and industry-grade implementation.
+I am a **Senior Software Engineer at the London Stock Exchange Group (LSEG)**, designing high-throughput, low-latency financial systems and distributed architectures. Alongside engineering production platforms, I actively produce technical educational content focusing on backend internals, concurrency, and scalable systems.
 
-- 🔭 **Current Work:** Scaling microfrontends and optimizing real-time data streaming (WebSockets/IBM MQ).
-- ✍️ **Content Creation:** I teach Java Concurrency, System Design, and DSA on my [YouTube Channel](https://youtube.com/@RusiruGunaratne).
-- 🎓 **Education:** B.Sc. (Hons) in Computer Engineering (GPA: 3.67/4.00).
-- 🚀 **Featured Project:** Currently building a high-concurrency Ticketing Platform using Spring Boot and Redis.
+- 💼 **Role:** Senior Software Engineer @ **LSEG**, driving microfrontend architecture (Webpack Module Federation) and zero-trust microservices (mTLS).
+- ⚡ **Core Focus:** Low-latency real-time streaming (<100ms via WebSockets & IBM MQ), distributed tracing with OpenTelemetry/Datadog, and high-concurrency backend design.
+- ☁️ **Community:** **AWS Community Builder** (Containers).
+- 🎓 **Academics:** B.Sc. (Hons) in Computer Engineering, University of Sri Jayewardenepura (GPA: 3.68/4.00, Dean's List).
+- 📚 **Research:** Published author on AI & Computer Vision in retail tech ([IEEE ICARC DOI: 10.1109/ICARC68737.2026.11453617](https://doi.org/10.1109/ICARC68737.2026.11453617)).
+- 🎥 **Education:** Creator at [YouTube/@RusiruGunaratne](https://youtube.com/@RusiruGunaratne), breaking down Java Concurrency, Distributed Systems, and Architecture.
 
 ---
 
-### 💻 Core Tech Stack
+### 💻 Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
-| **Backend** | Java (Spring Boot), Node.js, FastAPI, IBM MQ, Redis |
-| **Frontend** | React, Next.js, Webpack Module Federation, TypeScript |
-| **DevOps** | AWS, Terraform, Ansible, Jenkins, Docker, CI/CD |
-| **Observability** | Datadog, Prometheus, Grafana, Power BI |
+| **Languages** | Java, TypeScript, JavaScript, Python, C++, Go, Kotlin, C# |
+| **Backend & Messaging** | Spring Boot, Node.js, FastAPI, .NET Core, IBM MQ, Redis, WebSockets, REST APIs |
+| **Frontend & Architecture** | React, Next.js, Webpack Module Federation, Material-UI, Flutter |
+| **Cloud & Infrastructure** | AWS, Terraform, Ansible, Docker, Kubernetes, Jenkins, GitLab CI/CD, GitHub Actions |
+| **Observability & Reliability** | Datadog, OpenTelemetry, Prometheus, Grafana, Power BI, Artillery, Playwright, Cypress |
+| **Databases** | PostgreSQL, Microsoft SQL Server, MySQL, MongoDB, Firebase |
 
 ---
 
 ### 🤝 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/rusirugunaratne" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="https://youtube.com/@RusiruGunaratne" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" /></a>
-<a href="https://twitter.com/rusirugunaratne" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" /></a>
+  <a href="https://linkedin.com/in/rusirugunaratne" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://youtube.com/@RusiruGunaratne" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" /></a>
+  <a href="https://rusirugunaratne.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>
+  <a href="mailto:info.rusiru@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
